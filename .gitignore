@@ -29,3 +29,6 @@
 *.exe
 *.out
 *.app
+
+src\game\client\Release_portal
+src\game\server\Release_portal
