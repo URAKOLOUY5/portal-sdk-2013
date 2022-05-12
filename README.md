@@ -11,4 +11,4 @@ This source code is for you to create your own mods. You have no right to sell t
 3. Start building the project and then copy the dll files from the `game\portal\bin` to the `your_mod_folder\bin` or you can set up Post Build Events.
 
 To make mods you should to use **Source SDK Singleplayer 2013** with `upcoming` beta.
-You can use `gameinfo.txt` from `mod_portal` folder;
+You can use `gameinfo.txt` from `mod_portal` folder.
